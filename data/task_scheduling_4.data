@@ -1,0 +1,12 @@
+A	Obtain permission to exploit	120	
+B	Establish a track of 6 km	180	A
+C	Transport and installation of two probes at the starting point of the work	3	B
+D	Erect temporary buildings for the planning office and the accommodation of workers on the probes	30	B
+E	Tar the track	60	B
+F	Provision of water	90	D
+G	Probing	240	C,D
+H	Drilling and equipment of three pits	180	G,E,F
+I	Transport and installation of exploiting material at the bottom	30	J,H
+J	Construct offices and accommodation for workers and engineers	240	F,E,G
+K	Tracing and designing the background	360	J,H
+L	Construction of a laundry	240	J,H

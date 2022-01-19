@@ -1,0 +1,14 @@
+1	groundwork	2	
+2	foundation	4	1
+3	building walls	10	2
+4	exterior plumbing	4	3
+5	interior plumbing	5	4
+6	electricity	7	3
+7	roof	6	3
+8	ﬁnishing oﬀ outer walls	7	7
+9	cexterior painting	9	4,8
+10	panelling	8	5,6
+11	ﬂoors	4	10
+12	interior painting	5	10
+13	ﬁnishing oﬀ interior	6	11,12
+14	ﬁnishing oﬀ exterior	2	9
